@@ -1,0 +1,9 @@
+:root {
+  --primary: #9c27b0;
+  --primaryDark: #89119d;
+  --secundary: #ffce00;
+  -secundaryDark: rgb(233,287,2);
+  --white: #ffffff;
+  --black: #000000;
+  --font: 'Staatliches', cursive;
+}
